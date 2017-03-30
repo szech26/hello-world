@@ -1,3 +1,3 @@
 # hello-world
 Learning
-I really want to understadn and be good at programming
+I really want to understand and be good at programming
